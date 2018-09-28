@@ -24,5 +24,11 @@ namespace RateService.Api.Controllers
             var rng = new Random();
             return GenerateCoinData.GenerateRatesData(rng.Next(0, 4))[0];            
         }
+
+        [HttpGet("ping")]
+        public ActionResult<string> Ping()
+        {
+            return "RateService Api is UP !";
+        }
     }
 }

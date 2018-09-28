@@ -39,3 +39,17 @@ G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\
 G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorTargetAssemblyInfo.cache
 G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.dll
 G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.pdb
+F:\Git\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.deps.json
+F:\Git\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.json
+F:\Git\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.dev.json
+F:\Git\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.dll
+F:\Git\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.pdb
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csprojAssemblyReference.cache
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csproj.CoreCompileInputs.cache
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cache
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cs
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfoInputs.cache
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfo.cs
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorTargetAssemblyInfo.cache
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.dll
+F:\Git\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.pdb

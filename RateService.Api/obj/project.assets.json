@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MyDocument\\My Examples\\ReactJS\\Rates\\RateService.Api\\RateService.Api.csproj",
+      "projectUniqueName": "F:\\Git\\RateService.Api\\RateService.Api.csproj",
       "projectName": "RateService.Api",
-      "projectPath": "G:\\MyDocument\\My Examples\\ReactJS\\Rates\\RateService.Api\\RateService.Api.csproj",
+      "projectPath": "F:\\Git\\RateService.Api\\RateService.Api.csproj",
       "packagesPath": "C:\\Users\\Khoren\\.nuget\\packages\\",
-      "outputPath": "G:\\MyDocument\\My Examples\\ReactJS\\Rates\\RateService.Api\\obj\\",
+      "outputPath": "F:\\Git\\RateService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
