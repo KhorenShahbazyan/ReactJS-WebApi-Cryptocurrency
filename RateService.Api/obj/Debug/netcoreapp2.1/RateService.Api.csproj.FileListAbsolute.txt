@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.deps.json
+C:\Users\user\Desktop\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.json
+C:\Users\user\Desktop\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.dev.json
+C:\Users\user\Desktop\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.dll
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfo.cs
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.pdb
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.dll
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.pdb
+C:\Users\user\Desktop\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.deps.json
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.json
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.dev.json
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.dll
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.pdb
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfo.cs
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.dll
+C:\Users\user\Desktop\Rates\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.pdb
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.deps.json
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.json
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.runtimeconfig.dev.json
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.dll
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\bin\Debug\netcoreapp2.1\RateService.Api.pdb
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csprojAssemblyReference.cache
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.csproj.CoreCompileInputs.cache
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cache
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorAssemblyInfo.cs
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfoInputs.cache
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.AssemblyInfo.cs
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.RazorTargetAssemblyInfo.cache
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.dll
+G:\MyDocument\My Examples\ReactJS\Rates\RateService.Api\obj\Debug\netcoreapp2.1\RateService.Api.pdb
